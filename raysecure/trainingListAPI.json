@@ -3,14 +3,17 @@
   "data": [
     {
       "id": "1",
+      "title": "Mailroom Security 101",
       "video_url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+1+video.mp4"
     },
     {
       "id": "2",
+      "title": "Mailroom Security 102",
       "video_url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+2+video+-+converted.mp4"
     },
     {
       "id": "1",
+      "title": "Mailroom Security 103",
       "video_url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+4+video.mp4"
     }
   ]
