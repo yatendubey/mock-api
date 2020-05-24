@@ -4,17 +4,44 @@
     {
       "id": "1",
       "title": "Mailroom Security 101",
-      "video_url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+1+video.mp4"
+      "subtitle": "SubTitle 1",
+      "subtitleSecondary": "1 hour",
+      "url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+1+video.mp4"
     },
     {
       "id": "2",
       "title": "Mailroom Security 102",
-      "video_url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+2+video+-+converted.mp4"
+      "subtitle": "SubTitle 2",
+      "subtitleSecondary": "2 hour",
+      "url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+2+video+-+converted.mp4"
     },
     {
-      "id": "1",
+      "id": "3",
       "title": "Mailroom Security 103",
-      "video_url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+4+video.mp4"
+      "subtitle": "SubTitle 3",
+      "subtitleSecondary": "30 minutes",
+      "url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+4+video.mp4"
+    },
+    {
+      "id": "4",
+      "title": "Mailroom Security 104",
+      "subtitle": "SubTitle 4",
+      "subtitleSecondary": "1.5 hour",
+      "url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+1+video.mp4"
+    },
+    {
+      "id": "5",
+      "title": "Mailroom Security 105",
+      "subtitle": "SubTitle 5",
+      "subtitleSecondary": "2.5 hour",
+      "url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+2+video+-+converted.mp4"
+    },
+    {
+      "id": "6",
+      "title": "Mailroom Security 106",
+      "subtitle": "SubTitle 6",
+      "subtitleSecondary": "1 hour",
+      "url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+4+video.mp4"
     }
   ]
 }
