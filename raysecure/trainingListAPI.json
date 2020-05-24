@@ -39,7 +39,7 @@
       "subtitle": "SubTitle 5",
       "subtitleSecondary": "2.5 hour",
       "url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+2+video+-+converted.mp4",
-      "thumbnail": "https://i.picsum.photos/id/4/300/300.jpg"
+      "thumbnail": "https://i.picsum.photos/id/5/300/300.jpg"
     },
     {
       "id": "6",
@@ -47,7 +47,7 @@
       "subtitle": "SubTitle 6",
       "subtitleSecondary": "1 hour",
       "url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+4+video.mp4",
-      "thumbnail": "https://i.picsum.photos/id/5/300/300.jpg"
+      "thumbnail": "https://i.picsum.photos/id/6/300/300.jpg"
     }
   ]
 }
