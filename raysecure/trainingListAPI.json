@@ -7,7 +7,7 @@
       "subtitle": "SubTitle 1",
       "subtitleSecondary": "1 hour",
       "url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+1+video.mp4",
-      "thumbnail": "https://loremflickr.com/320/240/dog"
+      "thumbnail": "https://i.picsum.photos/id/1/300/300.jpg"
     },
     {
       "id": "2",
@@ -15,7 +15,7 @@
       "subtitle": "SubTitle 2",
       "subtitleSecondary": "2 hour",
       "url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+2+video+-+converted.mp4",
-      "thumbnail": "https://loremflickr.com/g/320/240/paris"
+      "thumbnail": "https://i.picsum.photos/id/2/300/300.jpg"
     },
     {
       "id": "3",
@@ -23,7 +23,7 @@
       "subtitle": "SubTitle 3",
       "subtitleSecondary": "30 minutes",
       "url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+4+video.mp4",
-      "thumbnail": "https://loremflickr.com/320/240/brazil,rio"
+      "thumbnail": "https://i.picsum.photos/id/3/300/300.jpg"
     },
     {
       "id": "4",
@@ -31,7 +31,7 @@
       "subtitle": "SubTitle 4",
       "subtitleSecondary": "1.5 hour",
       "url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+1+video.mp4",
-      "thumbnail": "https://loremflickr.com/320/240/dog"
+      "thumbnail": "https://i.picsum.photos/id/4/300/300.jpg"
     },
     {
       "id": "5",
@@ -39,7 +39,7 @@
       "subtitle": "SubTitle 5",
       "subtitleSecondary": "2.5 hour",
       "url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+2+video+-+converted.mp4",
-      "thumbnail": "https://loremflickr.com/g/320/240/paris"
+      "thumbnail": "https://i.picsum.photos/id/4/300/300.jpg"
     },
     {
       "id": "6",
@@ -47,7 +47,7 @@
       "subtitle": "SubTitle 6",
       "subtitleSecondary": "1 hour",
       "url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+4+video.mp4",
-      "thumbnail": "https://loremflickr.com/320/240/brazil,rio"
+      "thumbnail": "https://i.picsum.photos/id/5/300/300.jpg"
     }
   ]
 }
