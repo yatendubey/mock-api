@@ -7,7 +7,7 @@
       "subtitle": "Read our ebook",
       "subtitleSecondary": "PDF format",
       "url": "https://www.learningcontainer.com/wp-content/uploads/2019/09/sample-pdf-file.pdf",
-      "thumbnail": "https://i.picsum.photos/id/2/300/300.jpg"
+      "thumbnail": "https://i.picsum.photos/id/1/300/300.jpg"
     },
     {
       "id": "2",
@@ -55,7 +55,7 @@
       "subtitle": "SubTitle 7",
       "subtitleSecondary": "1 hour",
       "url": "https://raysecur-training.s3.us-east-2.amazonaws.com/RaySecur+Training/RaySecur+Training+Segment+1+video.mp4",
-      "thumbnail": "https://i.picsum.photos/id/1/300/300.jpg"
+      "thumbnail": "https://i.picsum.photos/id/7/300/300.jpg"
     }
     
   ]
